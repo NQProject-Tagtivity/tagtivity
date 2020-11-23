@@ -26,10 +26,11 @@ Application was integrated with server (Spring framework) but for the purpuse of
 
 
 ## Screenshots
-![not found](view/view1.PNG) 
-![not found](view/view2.PNG)
-![not found](view/view3.PNG)
-![not found](view/view4.PNG)
-![not found](view/view5.PNG)
-![not found](view/view6.PNG)
-![not found](view/view7.PNG)
+
+<img src="view/view1.PNG" width="224" height="486" />
+<img src="view/view2.PNG" width="224" height="486" />
+<img src="view/view3.PNG" width="224" height="486" />
+<img src="view/view4.PNG" width="224" height="486" />
+<img src="view/view5.PNG" width="224" height="486" />
+<img src="view/view6.PNG" width="224" height="486" />
+<img src="view/view7.PNG" width="224" height="486" />
